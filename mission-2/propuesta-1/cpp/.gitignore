@@ -1,0 +1,3 @@
+build/
+grade_mode_finder
+*.o
