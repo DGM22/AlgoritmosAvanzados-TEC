@@ -135,6 +135,7 @@ func (r *FileReader) ReadInto(filePath string, table *FrequencyTable) (ReadResul
 	}
 	defer file.Close()
 
+	
 	var result ReadResult
 
 	scanner := bufio.NewScanner(file)
