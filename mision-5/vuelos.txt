@@ -1,0 +1,20 @@
+Cancun
+Guadalajara
+Merida
+Mexico
+Monterrey
+Oaxaca
+Puebla
+Tijuana
+#
+Guadalajara Mexico 1400
+Guadalajara Monterrey 1700
+Guadalajara Tijuana 2600
+Merida Mexico 2400
+Merida Oaxaca 1900
+Mexico Monterrey 1800
+Mexico Oaxaca 1200
+Mexico Puebla 700
+Monterrey Tijuana 2400
+Oaxaca Puebla 900
+Puebla Guadalajara 1600

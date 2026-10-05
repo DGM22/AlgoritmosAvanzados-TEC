@@ -1,0 +1,601 @@
+Acapulco
+Aguascalientes
+Apodaca
+Atlixco
+Cabo_San_Lucas
+Campeche
+Cananea
+Cancun
+Celaya
+Chetumal
+Chihuahua
+Chilpancingo
+Ciudad_Juarez
+Ciudad_Obregon
+Coatzacoalcos
+Colima
+Cordoba
+Cuautla
+Cuernavaca
+Culiacan
+Delicias
+Durango
+Ecatepec
+Ensenada
+Fresnillo
+Guadalajara
+Guadalupe
+Guanajuato
+Guasave
+Guaymas
+Hermosillo
+Hidalgo
+Huajuapan
+Iguala
+Irapuato
+Jalapa
+La_Paz
+Lazaro_Cardenas
+Leon
+Los_Cabos
+Los_Mochis
+Manzanillo
+Matamoros
+Mazatlan
+Merida
+Mexicali
+Mexico
+Minatitlan
+Monclova
+Monterrey
+Morelia
+Naucalpan
+Navojoa
+Nezahualcoyotl
+Nogales
+Nuevo_Laredo
+Oaxaca
+Ocotlan
+Orizaba
+Pachuca
+Parral
+Piedras_Negras
+Playa_del_Carmen
+Poza_Rica
+Progreso
+Puebla
+Puerto_Vallarta
+Queretaro
+Reynosa
+Rio_Bravo
+Rosarito
+Salamanca
+Saltillo
+San_Cristobal
+San_Juan
+San_Luis_Potosi
+San_Miguel
+Silao
+Tampico
+Tapachula
+Tecate
+Tehuacan
+Tepatitlan
+Tepic
+Tijuana
+Tlalnepantla
+Tlaxcala
+Toluca
+Torreon
+Tuxtla
+Uruapan
+Valle_de_Bravo
+Veracruz
+Victoria
+Villahermosa
+Xalapa
+Zacatecas
+Zamora
+Zapopan
+Zihuatanejo
+#
+Acapulco Aguascalientes 1150
+Acapulco Fresnillo 4950
+Acapulco Hidalgo 3900
+Acapulco Mexico 2750
+Acapulco Reynosa 1050
+Aguascalientes Apodaca 750
+Aguascalientes Nuevo_Laredo 1650
+Apodaca Atlixco 3000
+Apodaca Ensenada 2750
+Apodaca Guadalupe 6050
+Apodaca Naucalpan 3150
+Apodaca Navojoa 3550
+Apodaca Tehuacan 2250
+Atlixco Cabo_San_Lucas 1550
+Atlixco Colima 5950
+Atlixco Manzanillo 2150
+Atlixco Orizaba 3050
+Atlixco Reynosa 5500
+Atlixco Rosarito 2950
+Cabo_San_Lucas Campeche 1850
+Cabo_San_Lucas Nezahualcoyotl 5200
+Cabo_San_Lucas Tecate 1800
+Cabo_San_Lucas Tlalnepantla 3750
+Cabo_San_Lucas Zacatecas 6200
+Campeche Cananea 1450
+Campeche Celaya 3350
+Campeche Cuernavaca 1650
+Campeche Manzanillo 4900
+Campeche Merida 4400
+Cananea Cancun 2250
+Cananea Guasave 4900
+Cananea Huajuapan 4700
+Cananea La_Paz 2600
+Cancun Celaya 1200
+Cancun Mexico 1450
+Cancun Tepic 1300
+Cancun Tijuana 4800
+Celaya Chetumal 3200
+Celaya Irapuato 3600
+Celaya Reynosa 1000
+Celaya Rosarito 1400
+Celaya Silao 6450
+Chetumal Atlixco 1550
+Chetumal Chihuahua 2950
+Chetumal Cordoba 4500
+Chetumal Navojoa 1200
+Chetumal Progreso 3500
+Chihuahua Chilpancingo 2850
+Chihuahua Delicias 3400
+Chihuahua Tijuana 1500
+Chihuahua Tlalnepantla 4600
+Chihuahua Valle_de_Bravo 3950
+Chihuahua Zamora 2850
+Chilpancingo Acapulco 3500
+Chilpancingo Ciudad_Juarez 2700
+Chilpancingo Ensenada 2150
+Chilpancingo Guaymas 5600
+Chilpancingo La_Paz 700
+Chilpancingo Merida 4450
+Chilpancingo Mexicali 1750
+Chilpancingo Parral 1100
+Ciudad_Juarez Ciudad_Obregon 1000
+Ciudad_Obregon Coatzacoalcos 2100
+Ciudad_Obregon Cordoba 6350
+Ciudad_Obregon Poza_Rica 2350
+Ciudad_Obregon Tepatitlan 1500
+Ciudad_Obregon Valle_de_Bravo 3750
+Coatzacoalcos Colima 1050
+Coatzacoalcos Delicias 5100
+Coatzacoalcos Poza_Rica 1000
+Coatzacoalcos Queretaro 6350
+Coatzacoalcos Valle_de_Bravo 1950
+Colima Chihuahua 3500
+Colima Cordoba 3600
+Colima Manzanillo 5000
+Colima Mazatlan 800
+Colima Piedras_Negras 3150
+Colima Saltillo 6150
+Cordoba Cuautla 1850
+Cordoba Jalapa 1700
+Cordoba Rosarito 1300
+Cordoba Silao 3350
+Cordoba Tehuacan 3900
+Cordoba Tepic 5350
+Cuautla Chetumal 1350
+Cuautla Cuernavaca 2500
+Cuautla San_Cristobal 4350
+Cuautla San_Miguel 2850
+Cuautla Zamora 700
+Cuernavaca Aguascalientes 3450
+Cuernavaca Culiacan 1750
+Cuernavaca San_Cristobal 4600
+Cuernavaca San_Juan 3550
+Cuernavaca Silao 3900
+Cuernavaca Veracruz 1450
+Culiacan Celaya 5250
+Culiacan Ciudad_Juarez 750
+Culiacan Delicias 1250
+Culiacan Durango 6250
+Culiacan Fresnillo 1350
+Culiacan Monclova 3550
+Culiacan Rio_Bravo 6150
+Culiacan San_Luis_Potosi 2950
+Culiacan Tampico 4850
+Culiacan Tuxtla 4850
+Delicias Durango 1250
+Delicias Guasave 3250
+Delicias Tapachula 5750
+Delicias Zapopan 3250
+Durango Acapulco 4150
+Durango Aguascalientes 3100
+Durango Apodaca 5450
+Durango Ecatepec 900
+Durango Ocotlan 1050
+Ecatepec Colima 3050
+Ecatepec Ensenada 1350
+Ecatepec Fresnillo 3050
+Ecatepec Nezahualcoyotl 1600
+Ensenada Fresnillo 1150
+Ensenada Hidalgo 2300
+Fresnillo Celaya 5950
+Fresnillo Guadalajara 1450
+Fresnillo Lazaro_Cardenas 1550
+Guadalajara Cuautla 6500
+Guadalajara Guadalupe 1850
+Guadalajara Iguala 5400
+Guadalajara Tuxtla 3350
+Guadalajara Victoria 2650
+Guadalupe Guanajuato 1400
+Guadalupe Matamoros 2800
+Guadalupe Navojoa 1000
+Guadalupe Saltillo 2650
+Guadalupe Tampico 5750
+Guanajuato Guasave 1200
+Guanajuato San_Cristobal 1450
+Guanajuato San_Luis_Potosi 2550
+Guanajuato Tlalnepantla 2550
+Guanajuato Zacatecas 4950
+Guasave Guaymas 1050
+Guasave Minatitlan 6500
+Guasave Morelia 6050
+Guasave Progreso 5050
+Guasave San_Cristobal 3700
+Guaymas Hermosillo 2650
+Hermosillo Chetumal 5450
+Hermosillo Ciudad_Obregon 3400
+Hermosillo Ecatepec 2800
+Hermosillo Hidalgo 1350
+Hermosillo Tapachula 6050
+Hermosillo Tepic 4600
+Hidalgo Chetumal 6150
+Hidalgo Huajuapan 3250
+Hidalgo Matamoros 4700
+Hidalgo Mexicali 5500
+Hidalgo Minatitlan 1950
+Huajuapan Colima 1900
+Huajuapan Iguala 800
+Huajuapan Xalapa 3200
+Iguala Chilpancingo 3100
+Iguala Guasave 3500
+Iguala Irapuato 1050
+Iguala Los_Mochis 4700
+Iguala Morelia 5450
+Iguala San_Cristobal 2300
+Irapuato Jalapa 1900
+Irapuato Mazatlan 6200
+Irapuato Naucalpan 1700
+Jalapa Colima 2550
+Jalapa La_Paz 1950
+Jalapa Silao 6000
+Jalapa Xalapa 4400
+La_Paz Lazaro_Cardenas 1300
+La_Paz Monterrey 1700
+La_Paz Naucalpan 1750
+La_Paz Progreso 5600
+Lazaro_Cardenas Leon 1750
+Lazaro_Cardenas Rosarito 3550
+Leon Los_Cabos 3550
+Leon Manzanillo 1250
+Leon Nogales 1150
+Los_Cabos Los_Mochis 750
+Los_Cabos Minatitlan 5350
+Los_Cabos Progreso 6200
+Los_Cabos Toluca 1700
+Los_Cabos Uruapan 5550
+Los_Mochis Apodaca 5750
+Los_Mochis Fresnillo 2050
+Los_Mochis Guadalajara 1450
+Los_Mochis Guasave 1350
+Los_Mochis Manzanillo 1300
+Los_Mochis Tampico 3550
+Los_Mochis Veracruz 5650
+Manzanillo Chilpancingo 3900
+Manzanillo Matamoros 1450
+Manzanillo Playa_del_Carmen 1250
+Matamoros Campeche 4200
+Matamoros Guasave 4350
+Matamoros Mazatlan 3300
+Matamoros Puerto_Vallarta 3950
+Matamoros Saltillo 6350
+Matamoros Uruapan 5950
+Mazatlan Hermosillo 1500
+Mazatlan Merida 2900
+Mazatlan Salamanca 6200
+Mazatlan Valle_de_Bravo 5550
+Mazatlan Zapopan 4600
+Merida Guadalajara 1650
+Merida Iguala 1600
+Merida Mexicali 1800
+Merida Xalapa 5000
+Mexicali Atlixco 5200
+Mexicali La_Paz 2050
+Mexicali Mexico 2800
+Mexicali Nogales 4750
+Mexico Coatzacoalcos 3400
+Mexico Leon 4750
+Mexico Minatitlan 1750
+Mexico Playa_del_Carmen 2050
+Mexico Rio_Bravo 6100
+Minatitlan La_Paz 1900
+Minatitlan Matamoros 5800
+Minatitlan Monclova 3300
+Minatitlan Oaxaca 4800
+Monclova Cuernavaca 850
+Monclova Monterrey 1400
+Monclova Playa_del_Carmen 1550
+Monclova Puebla 4650
+Monterrey Los_Mochis 750
+Monterrey Matamoros 3250
+Monterrey Morelia 3200
+Monterrey Oaxaca 3900
+Monterrey Reynosa 3550
+Monterrey San_Juan 2800
+Morelia Chihuahua 4400
+Morelia Guadalajara 3750
+Morelia Naucalpan 1450
+Morelia Orizaba 2350
+Morelia Piedras_Negras 1300
+Morelia Tepatitlan 3150
+Morelia Tlaxcala 6050
+Morelia Toluca 3300
+Naucalpan Mazatlan 4000
+Naucalpan Navojoa 3450
+Naucalpan Oaxaca 3650
+Naucalpan Parral 1200
+Navojoa Mazatlan 2500
+Navojoa Mexicali 4300
+Navojoa Nezahualcoyotl 2500
+Navojoa Salamanca 4000
+Navojoa Tampico 4250
+Nezahualcoyotl Guasave 4350
+Nezahualcoyotl Nogales 1600
+Nezahualcoyotl Zacatecas 5400
+Nogales Cananea 3900
+Nogales Hermosillo 6100
+Nogales Mexico 4500
+Nogales Nuevo_Laredo 2750
+Nuevo_Laredo Ciudad_Obregon 5150
+Nuevo_Laredo Durango 5050
+Nuevo_Laredo Hermosillo 3300
+Nuevo_Laredo Matamoros 2500
+Nuevo_Laredo Oaxaca 3450
+Nuevo_Laredo Puebla 2500
+Nuevo_Laredo Xalapa 2450
+Oaxaca Ocotlan 650
+Oaxaca Orizaba 1800
+Ocotlan Orizaba 3450
+Orizaba Cordoba 2650
+Orizaba Monclova 4050
+Orizaba Pachuca 650
+Pachuca Hermosillo 4600
+Pachuca Iguala 4000
+Pachuca Leon 5300
+Pachuca Minatitlan 3450
+Pachuca Morelia 4400
+Pachuca Nezahualcoyotl 6300
+Pachuca Nuevo_Laredo 1900
+Pachuca Parral 2550
+Pachuca Veracruz 3950
+Parral Apodaca 1950
+Parral Leon 5150
+Parral Piedras_Negras 1650
+Parral San_Luis_Potosi 5700
+Piedras_Negras Cabo_San_Lucas 2150
+Piedras_Negras Ciudad_Juarez 2600
+Piedras_Negras Coatzacoalcos 900
+Piedras_Negras Playa_del_Carmen 2450
+Piedras_Negras San_Juan 950
+Playa_del_Carmen Delicias 4350
+Playa_del_Carmen Poza_Rica 1150
+Playa_del_Carmen San_Juan 5600
+Playa_del_Carmen Tapachula 5600
+Playa_del_Carmen Tepatitlan 1900
+Playa_del_Carmen Xalapa 4700
+Poza_Rica Ciudad_Juarez 1500
+Poza_Rica Progreso 1000
+Poza_Rica Tehuacan 4800
+Progreso Celaya 5550
+Progreso Matamoros 3200
+Progreso Puebla 1500
+Progreso Rio_Bravo 2050
+Progreso Tapachula 2600
+Progreso Toluca 4050
+Progreso Veracruz 2300
+Puebla Acapulco 6050
+Puebla Ecatepec 6050
+Puebla Jalapa 800
+Puebla Leon 2700
+Puebla Los_Cabos 4050
+Puebla Mazatlan 4400
+Puebla Naucalpan 2400
+Puebla Puerto_Vallarta 2300
+Puebla Uruapan 3600
+Puerto_Vallarta Aguascalientes 900
+Puerto_Vallarta Queretaro 3150
+Puerto_Vallarta Tijuana 5200
+Queretaro Aguascalientes 1150
+Queretaro Cabo_San_Lucas 1350
+Queretaro Celaya 2600
+Queretaro Durango 5000
+Queretaro Fresnillo 4350
+Queretaro Morelia 1150
+Queretaro Orizaba 750
+Queretaro Pachuca 6300
+Queretaro Reynosa 2500
+Queretaro Tecate 6350
+Queretaro Torreon 1100
+Queretaro Tuxtla 4500
+Reynosa Culiacan 5600
+Reynosa Rio_Bravo 3350
+Reynosa Rosarito 1850
+Rio_Bravo Cuautla 2450
+Rio_Bravo Guaymas 5950
+Rio_Bravo Huajuapan 4400
+Rio_Bravo Nuevo_Laredo 3450
+Rio_Bravo Playa_del_Carmen 6300
+Rio_Bravo Queretaro 2500
+Rio_Bravo Rosarito 1950
+Rosarito Aguascalientes 1650
+Rosarito Iguala 4750
+Rosarito Jalapa 3550
+Rosarito Morelia 1600
+Rosarito Poza_Rica 6000
+Rosarito Salamanca 950
+Rosarito San_Cristobal 2500
+Rosarito Torreon 3300
+Rosarito Zacatecas 1050
+Salamanca Lazaro_Cardenas 1150
+Salamanca Los_Cabos 6300
+Salamanca Puerto_Vallarta 800
+Salamanca Saltillo 1250
+Saltillo Puerto_Vallarta 3300
+Saltillo San_Cristobal 1000
+Saltillo Tampico 3600
+Saltillo Tijuana 1350
+Saltillo Valle_de_Bravo 2600
+Saltillo Xalapa 2800
+San_Cristobal Ensenada 5400
+San_Cristobal San_Juan 1700
+San_Cristobal Tepic 1050
+San_Juan Campeche 4400
+San_Juan Mexico 950
+San_Juan San_Luis_Potosi 2650
+San_Juan Tapachula 5550
+San_Juan Zapopan 6400
+San_Luis_Potosi Los_Mochis 6150
+San_Luis_Potosi Morelia 4400
+San_Luis_Potosi San_Miguel 3600
+San_Luis_Potosi Tlalnepantla 4350
+San_Miguel Chetumal 4350
+San_Miguel Hidalgo 4050
+San_Miguel Jalapa 6400
+San_Miguel Los_Mochis 6350
+San_Miguel Piedras_Negras 4650
+San_Miguel Progreso 5650
+San_Miguel Silao 1500
+Silao Nezahualcoyotl 3800
+Silao Tampico 2000
+Silao Xalapa 3600
+Tampico Piedras_Negras 6100
+Tampico Tapachula 2800
+Tampico Tlalnepantla 2700
+Tampico Uruapan 3900
+Tampico Zacatecas 1050
+Tapachula Merida 6500
+Tapachula Minatitlan 5700
+Tapachula Tecate 2350
+Tapachula Zapopan 2550
+Tecate Campeche 1450
+Tecate Cuernavaca 3100
+Tecate Nezahualcoyotl 2000
+Tecate Ocotlan 5000
+Tecate Tampico 2400
+Tecate Tehuacan 2850
+Tecate Uruapan 4500
+Tehuacan Ciudad_Juarez 6350
+Tehuacan Irapuato 650
+Tehuacan Nogales 2150
+Tehuacan Puerto_Vallarta 3700
+Tehuacan Tepatitlan 3600
+Tepatitlan Aguascalientes 5950
+Tepatitlan Cabo_San_Lucas 5750
+Tepatitlan Cordoba 5400
+Tepatitlan Hermosillo 2700
+Tepatitlan Jalapa 2300
+Tepatitlan Merida 1750
+Tepatitlan Parral 4250
+Tepatitlan Tepic 1750
+Tepic Huajuapan 4250
+Tepic Mexicali 2150
+Tepic Monterrey 6200
+Tepic Nezahualcoyotl 4400
+Tepic Rio_Bravo 750
+Tepic Tijuana 3150
+Tepic Uruapan 6000
+Tijuana Fresnillo 3900
+Tijuana Pachuca 6050
+Tijuana Puebla 3650
+Tijuana Tlalnepantla 3050
+Tlalnepantla Chetumal 2700
+Tlalnepantla Huajuapan 5450
+Tlalnepantla Jalapa 5400
+Tlalnepantla Manzanillo 3250
+Tlalnepantla Piedras_Negras 3350
+Tlalnepantla Poza_Rica 2700
+Tlalnepantla Tlaxcala 2850
+Tlaxcala Playa_del_Carmen 1550
+Tlaxcala Puerto_Vallarta 3950
+Tlaxcala Reynosa 5300
+Tlaxcala San_Miguel 4700
+Tlaxcala Tepatitlan 5550
+Tlaxcala Toluca 650
+Tlaxcala Zamora 5750
+Tlaxcala Zihuatanejo 3650
+Toluca Celaya 4050
+Toluca Delicias 6200
+Toluca Guasave 5900
+Toluca Torreon 1250
+Torreon Chilpancingo 5750
+Torreon Irapuato 6300
+Torreon La_Paz 5450
+Torreon Mazatlan 4650
+Torreon Reynosa 2850
+Torreon Tlaxcala 1700
+Torreon Tuxtla 750
+Torreon Uruapan 5850
+Tuxtla Aguascalientes 3850
+Tuxtla Nuevo_Laredo 2600
+Tuxtla Piedras_Negras 2300
+Tuxtla Uruapan 2550
+Uruapan Mexicali 950
+Uruapan Poza_Rica 3650
+Uruapan San_Miguel 1150
+Uruapan Valle_de_Bravo 2800
+Uruapan Zacatecas 2250
+Valle_de_Bravo Acapulco 5000
+Valle_de_Bravo Ensenada 6400
+Valle_de_Bravo Orizaba 2900
+Valle_de_Bravo Tehuacan 3350
+Valle_de_Bravo Veracruz 3100
+Valle_de_Bravo Xalapa 5600
+Veracruz Acapulco 2700
+Veracruz Cabo_San_Lucas 1550
+Veracruz La_Paz 6250
+Veracruz Rosarito 3050
+Veracruz Tehuacan 2350
+Veracruz Victoria 3550
+Victoria Culiacan 6500
+Victoria Villahermosa 2450
+Villahermosa Cuautla 2500
+Villahermosa Naucalpan 2950
+Villahermosa Rosarito 3550
+Villahermosa Xalapa 2450
+Xalapa Atlixco 4150
+Xalapa Guasave 3450
+Xalapa Morelia 5150
+Xalapa San_Miguel 1350
+Xalapa Zacatecas 1600
+Zacatecas Iguala 1350
+Zacatecas Nuevo_Laredo 2450
+Zacatecas Silao 4950
+Zacatecas Zamora 3200
+Zamora Iguala 4450
+Zamora Leon 5800
+Zamora Ocotlan 2500
+Zamora Piedras_Negras 5400
+Zamora Tuxtla 5700
+Zamora Zapopan 2250
+Zapopan Acapulco 3800
+Zapopan Cuernavaca 5900
+Zapopan Ocotlan 6400
+Zapopan Queretaro 650
+Zapopan Salamanca 5250
+Zapopan Tecate 4050
+Zapopan Tijuana 6350
+Zapopan Zihuatanejo 2800
+Zihuatanejo Lazaro_Cardenas 4700
+Zihuatanejo Matamoros 2100
+Zihuatanejo Piedras_Negras 5700
+Zihuatanejo San_Miguel 1350
